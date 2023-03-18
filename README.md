@@ -8,17 +8,6 @@ Here, you'll find a variety of tools and resources to help you manage and reduce
 The one step solution to get relief from your stress.
 Live a stress-free life.
 
-## 📝 Table of Contents
-- [Problem it Solves](#problem_statement)
-- [Services](#services)
-- [Get Started](#getStarted)
-- [Logo](#logo)
-- [Screenshots](#screenshots)
-- [Technology Stack](#tech_stack)
-- [Open-Source program](#open_source_programs)
-- [Project Admin](#admin)
-- [Contributors](#contributors)
-
 ## 🔎 Problems it Solves: <a name = "problem_statement"></a>
 - Gives mental peace 🧘‍♀️
 - Reduces stress
